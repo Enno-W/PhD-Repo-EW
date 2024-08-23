@@ -1,0 +1,254 @@
+---
+title: "Awe, Pride and Well-Being: Improving Emotion Regulation in the Exercise Context by Considering Individual and Cultural Determinants"
+author: "Enno Winkler"
+format: 
+  revealjs:
+    logo: Universität_Leipzig_logo.svg
+    include-in-header:
+      - text: |
+          <style>
+          .reveal .slide-logo {
+            max-height: unset;
+            height: 200px;
+          }
+          </style>
+    theme: moon
+    transition: slide
+    chalkboard: true
+    css: styles.css
+    pagetitle: "Awe and Pride Presentation"
+    incremental: true
+    slide-number: true
+    parallax-background-image: background.jpg
+    parallax-background-size: 15000px 4262px
+    parallax-background-horizontal: 500
+    parallax-background-vertical: 250
+bibliography: "bibliography.bib"
+csl: apa.csl
+#biblio-style: "apalike"
+---
+
+```{r setup}
+if (!requireNamespace("needs"   )) install.packages("needs")
+if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+needs("excelbib", "xfun")
+#xlsx_to_bib(from_root("Excel_References.xlsx"))
+```
+
+# Awe {auto-animate="true"}
+
+-   A positive *emotion* related to (1) vastness and (2) a need for accomodation [@Keltner2003]
+    -   Transformative [e.g. @Chirico2018]
+    -   Therapeutic [@Dourron2022; @KeltnerMonroy2023]
+
+::: notes
+What is awe and why is it important for sport psychology practicioners and athletes to know more about this emotion? Awe is the emotional reaction to a stimulus that we perceive as vast, such that it challenges the frame of reference that we are used to. This stimulus could be, for example, a vast mountain range, but it does not have to be physically large. It can also be a vastly complex stimulus, like intricate artwork, or it could be a profound idea or a vast timescale. This perception of vastness is accompanied by a need for accomodation, that is, the need to re-integrate the self into the new, shaken-up frame of reference. Awe has been labelled a transformative and therapeutic emotion. These properties make it a useful emotion for sport psychologists seeking to bring about a transformation of thought patterns or boosting mental health. Despite this, there is almost no research on awe in sport pscychology beyond the context of extreme sports.
+:::
+
+## Correlates of Awe {auto-animate="true"}
+
+-   *Attention:* Other-focus [e.g., @Bai2017]
+-   *Self-Perception:* Small self [e.g., @Piff2015]
+-   *Social Status:* Humility [@Stellar2018], selflessness [e.g., @Piff2015]
+-   Enhanced meaning in life [@Rivera2019]
+-   Creative thinking [@Chirico2018]
+-   Enhanced information intake and processing [@Danvers2017]
+
+::: notes
+A growing body of research illuminates how awe relates to other constructs. Regarding attention, awe shifts the attention away from one's own interests to the outside. Thus, awe is also associated with prosocial tendency. Regarding self-perception, awe makes us feel small. Regarding our status in society, awe makes individuals more humble, leading to a more balanced view of one's capabilities, and a conscious "leveling" of oneself within the social hierarchy.
+:::
+
+# Pride
+
+-   A positive and **self-conscious emotion** related to socially valued behaviour [@TracyRobins2004]
+-   **Authentic** vs. **hubristic pride** [@Tracy2007]
+
+::: notes
+Pride is a self-conscious emotion. That means, it arises exclusively in a context of evaluation by others, as opposed to the basic emotions anger, disgust, fear, happiness, sadness and surprise. Pride facilitates individual rising in the social hierarchy. There are two ways to rise in the ranks. One is by evaluating oneself as in some way better than others, feeling and displaying dominance, superiority and power. This is associated with hubristic pride. The other route to status is by effort and achievement, which is associated with authentic pride. Sport psychological research views authentic pride as desirable, and hubristic pride as maladaptive and undesirable.
+:::
+
+## Correlates of Pride
+
+::: columns
+::: {.column width="33%"}
+#### Pride in General
+
+-   *Attention:* Self-focus [@Sabiston2020]
+:::
+
+::: {.column width="33%"}
+#### Authentic Pride
+
+-   Humility [@weidmanPsychologicalStructureHumility2018]
+-   *Social Status:* Rise in social status by achievement and effort [@Tracy2020]
+:::
+
+::: {.column width="33%"}
+#### Hubristic Pride
+
+-   *Self-Perception:* Larger, aggrandized self [@Tracy2009]
+-   *Social Status:* Rise in social status by superiority or dominance [@Tracy2020]
+:::
+:::
+
+::: notes
+The label "self-conscious emotion" gives it away that this is an emotion focused on the self. Interestingly, authentic pride, just like awe, is linked to greater humility. Here, however, the feelings of humility take place in a context of rising in the ranks through achievement and effort, while this is not the case for awe. Hubristic Pride is associated with a larger self, and rising in status with a disregard of others.
+:::
+
+# The Relationship between awe and Pride
+
+## {auto-animate="true"}
+
+::: {style="position: absolute; left: 100px; top: 50px; color: orange"}
+Awe
+:::
+
+::: {style="position: absolute; left: 100px; top: 100px"}
+Focus on others
+:::
+
+::: {style="position: absolute; left: 100px; top: 150px"}
+Small self
+:::
+
+::: {style="position: absolute; left: 100px; top: 200px"}
+Selflessness
+:::
+
+::: {style="position: absolute; left: 550px; top: 50px; color: orange"}
+Pride
+:::
+
+::: {style="position: absolute; left: 550px; top: 100px"}
+Focus on self
+:::
+
+::: {style="position: absolute; left: 550px; top: 150px"}
+Aggrandized self
+:::
+
+::: {style="position: absolute; left: 550px; top: 200px"}
+Rise in status
+:::
+
+::: notes
+To recap, awe and pride are both positive and arousing, but they seem opposed to one another regarding their appraisal. Pride has the core theme of personal achievement, while awe has a core theme of feeling small relative to others.
+:::
+
+##  {auto-animate="true"}
+
+::: {style="position: absolute; left: 100px; top: 50px; font-size: 2em; color: darkorange"}
+Awe
+:::
+
+::: {style="position: absolute; left: 100px; top: 100px; font-size: 2em;"}
+Focus on others
+:::
+
+::: {style="position: absolute; left: 100px; top: 150px; font-size: 2em;"}
+Small self
+:::
+
+::: {style="position: absolute; left: 100px; top: 200px; font-size: 2em;"}
+Selflessness
+:::
+
+::: {style="position: absolute; left: 550px; top: 50px; font-size: 0.7em; color: orange"}
+Pride
+:::
+
+::: {style="position: absolute; left: 550px; top: 100px; font-size: 0.7em;"}
+Focus on self
+:::
+
+::: {style="position: absolute; left: 550px; top: 150px; font-size: 0.7em;"}
+Aggrandized self
+:::
+
+::: {style="position: absolute; left: 550px; top: 200px; font-size: 0.7em;"}
+Rise in status
+:::
+
+::: notes
+As visualized here, I expect that awe and pride interact with each other, as feelings of awe should diminish feelings of pride and vice versa.
+:::
+
+##  {auto-animate="true"}
+
+::: {style="position: absolute; left: 100px; top: 50px; font-size: 0.7em; color: orange"}
+Awe
+:::
+
+::: {style="position: absolute; left: 100px; top: 100px; font-size: 0.7em;"}
+Focus on others
+:::
+
+::: {style="position: absolute; left: 100px; top: 150px; font-size: 0.7em;"}
+Small self
+:::
+
+::: {style="position: absolute; left: 100px; top: 200px; font-size: 0.7em;"}
+Selflessness
+:::
+
+::: {style="position: absolute; left: 550px; top: 50px; font-size: 2em; color: darkorange"}
+Pride
+:::
+
+::: {style="position: absolute; left: 550px; top: 100px; font-size: 2em;"}
+Focus on self
+:::
+
+::: {style="position: absolute; left: 550px; top: 150px; font-size: 2em;"}
+Aggrandized self
+:::
+
+::: {style="position: absolute; left: 550px; top: 200px; font-size: 2em;"}
+Rise in status
+:::
+
+::: notes
+When we have a broad attentional focus away from the self, we cannot focus on our self at the same time. The self can not be small and large simultaneously. Likewise, when we are selfless and concerned with integrating in existing group structures, we are not concerned with a rise in status.
+I want to launch the PhD Project with an experimental study on the relationship between awe and pride. 
+:::
+
+# Study 1
+
+## Study 1: Individual and Cultural Determinants {auto-animate=true}
+
+::: {.fragment .fade-up}
+Implicit Motives [@Wegner2023]
+:::
+
+::: {.fragment .fade-up}
+Attribution Style [@Weiner1985]
+:::
+
+::: {.fragment .fade-up}
+Cultural Orientation [@Hofstede1983]
+:::
+
+
+
+
+::: notes
+I am also interested in how individual and cultural determinants influence this relationship. Pride is culturally regulated and a collectivistic orientation should predict stronger feelings of awe. 
+:::
+
+
+
+## Study 1
+
+![Flow Diagram for Study 1 - 2x1 Between-Subjects](Study 1.drawio.svg)
+
+::: notes
+When we have a broad attentional focus away from the self, we cannot focus on our self at the same time. The self can not be small and large simultaneously. Likewise, when we are selfless and concerned with integrating in existing group structures, we are not concerned with a rise in status.
+I want to launch the PhD Project with an experimental study on the relationship between awe and pride. 
+:::
+
+
+
+# References
+
+::: refs
+:::

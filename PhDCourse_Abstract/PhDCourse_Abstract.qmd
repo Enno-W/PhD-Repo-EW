@@ -1,0 +1,194 @@
+---
+title: "Awe, Pride and Well-Being: Improving Emotion Regulation in the Exercise Context by Considering Individual and Cultural Determinants"
+shorttitle: "Awe and Pride in Sport and Exercise"
+author:
+  - name: Enno Winkler
+    corresponding: true
+    orcid: 0009-0008-0665-3447
+    email: enno_winkler@outlook.com
+    affiliations:
+      - name: Leipzig University
+        department: Chair of Sport Psychology
+        address: Jahnallee 59
+        city: Leipzig
+        region: Saxony
+        country: Germany
+        postal-code: 04109
+author-note:
+  status-changes: 
+    affiliation-change: null
+    deceased: null
+  disclosures:
+    study-registration: null
+    data-sharing: null
+    related-report: null
+    conflict-of-interest: null
+    financial-support: null
+    gratitude: null
+    authorship-agreements: null
+#abstract: "This document is a template."
+#keywords: [keyword1, keyword2, keyword3]
+bibliography: bibliography.bib
+format:
+  #apaquarto-docx: default
+  apaquarto-html: default
+  #apaquarto-pdf:
+    
+    #documentmode: man
+knitr: 
+  opts_chunk: 
+    warning: false
+    message: false
+---
+
+```{r}
+if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+if (!requireNamespace("needs"   )) install.packages("needs")
+needs("excelbib", "devtools", "xfun")
+xlsx_to_bib(from_root("Excel_References.xlsx"))
+```
+
+<!-- # First iteration -->
+
+<!-- Despite the potential that the emotions of awe and pride hold for sport psychology, awe and its relationship to pride have received little attention in the field. Awe is . Aside from known effects of awe that might benefit athletes in team efforts, such as creative thinking [@Zhang2024; @Chirico2018], enhanced intake of information [@Danvers2017], and social connectedness [@Chen2020], situational awe could potentially be used to regulate pride, as the two emotions are somewhat contrary [e.g., @Shiota2007]. The experience of awe is characterized by a perceived small self [@Piff2015; @Bai2017], while pride, especially hubristic pride is commonly associated with a larger perceived self [e.g., @Tracy2007]. Additionally, pride may motivate people to rise in the social hierarchy [@Tracy2020], while awe is associated with greater acceptance of the social structure and humility, emphasizing connectedness [@Stellar2018; @Piff2015]. The regulation of pride is relevant for motivational outcomes, as pride acts as a barometer for progress. With low pride, athletes and exercisers tend to work harder to "fill up" the barometer again [@Gilchrist2018]. Taken together, inducing awe at the beginning of a team effort and fostering pride after the completion of it could boost team performance and enhance the experience of exercisers and athletes. -->
+
+<!-- # Second iteration: Don't be too proud just yet: The role of awe in exercise perseverance -->
+
+<!-- When individuals pursue achievement goals that come with short-term costs, more intense feelings of pride generally increase the persistence in goal pursuit [@Williams2008]. Yet, the time point when exercisers experience high levels of pride matters, as pride acts as a gauge for achievement: Low levels of authentic pride lead individuals to pursue their training more intensively in the following week [@Gilchrist2018]. -->
+
+<!-- Awe, an emotion that results from appraising vast or information-rich stimuli, leading to a need for accommodation [@Keltner2003], could boost the motivating function of pride. First, the feelings of a small self [@Bai2017; @Piff2015] and humility [@Stellar2018] that are evoked by awe might diminish personal pride without damaging self-worth, which might aid to adjust the fluctuation of pride across the training process in a beneficial way. Second, awe might discourage hubristic pride and foster an authentic view of one's achievements [@Xiong2023; @Yuan2023], leading to the form of pride that is more relevant for goal pursuit: authentic pride [@Tracy2007]. Third, awe might lead individuals to pursue more meaningful goals and develop prosociality and connectedness [@Chen2020; @Chirico2018; @Shiota2007; @Jiao2022; @Guan2019], fostering long-term motivation. -->
+
+<!-- ## Objectives -->
+
+<!-- To better understand the emotions of awe and pride in the context of achievement and perseverance in goal pursuit, I want to answer the questions: 1. Does awe down-regulate authentic and hubristic pride without affecting self-esteem? 2. Can awe and its effect on pride benefit the persistence in goal-pursuit of exercisers? 3. Can these findings be generalized across cultures? -->
+
+<!-- ## Methods -->
+
+<!-- The first study will consist of an online questionnaire, illuminating whether awe can be used to regulate pride without negatively affecting self-worth. -->
+
+<!-- The second study will be an experimental study informed by study one, where the implicit motives and cultural orientation will be assessed at baseline. Exercisers preparing for a competition or race will receive a diary with a method of monitoring training progress and—in one condition–with short weekly self-reflection exercises to induce awe. -->
+
+<!-- The third study will replicate study two in Germany. -->
+
+<!-- ## Discussion -->
+
+<!-- 1.  How to increase the feasibility and parsimony of the study? -->
+
+<!-- 2.  How to model the data of studies two and three (longitudinal data with categorical and numeric influences)? -->
+
+<!-- # Third iteration: Shortening -->
+
+<!-- # Don't be too proud just yet: The role of awe in exercise perseverance -->
+
+<!-- When individuals pursue achievement goals, pride generally increases the persistence in goal pursuit [@Williams2008]. Yet, pride also acts as a gauge for achievement: Low levels of authentic (but not hubristic) pride lead individuals to pursue their training more intensively in the following week [@Gilchrist2018]. -->
+
+<!-- Awe [@Keltner2003] could boost this motivating function of pride by inducing feelings of a small self [@Bai2017; @Piff2015] and humility [@Stellar2018], which could diminish pride without damaging self-worth, facilitating the regulation of goal-directed behavior. Second, awe might discourage hubristic pride, by fostering an authentic view of one's achievements [@Xiong2023; @Yuan2023]. Third, awe might lead individuals to pursue more meaningful goals [@Chen2020; @Chirico2018; @Shiota2007; @Jiao2022; @Guan2019], fostering long-term motivation. -->
+
+<!-- ## Objectives -->
+
+<!-- Mainly, to answer the questions: -->
+
+<!-- 1.  Does awe down-regulate authentic and hubristic pride without affecting self-esteem? -->
+
+<!-- 2.  Can awe and its effect on pride benefit the persistence in goal-pursuit of exercisers? -->
+
+<!-- 3.  Can these findings be generalized across cultures? -->
+
+<!-- ## Methods -->
+
+<!-- To answer question one, I will employ an online questionnaire with measures of affect [PANAS, @Watson1988], the Authentic-Hubristic-Pride Scale [@Tracy2007], and a measure of self-worth and awe. -->
+
+<!-- The second, longitudinal and experimental study in China will add implicit motives [@Schultheiss2008] and cultural orientation [@Triandis1998] as measurements. The third study will replicate study two in Germany. Participants are healthy adult exercisers or athletes preparing for a competition or race. -->
+
+<!-- ## Discussion -->
+
+<!-- 1.  How to increase the feasibility and parsimony of the study? -->
+
+<!-- 2.  How to model the complex longitudinal data? -->
+
+<!-- 3.  How to measure awe in two languages (Chinese and German), with a thin base of existing scales? -->
+
+<!-- ## Research context -->
+
+<!-- Goal 3.4 of the 17 Sustainable Development Goals formulated by the United Nations Organization [@assembly2017resolution] is the reduction of premature death by means of promoting mental health and well-being. Increasing the experience of positive emotions during sport and exercise simultaneously supports individuals’ psychological and physical well-being [@Fredrickson2002; @Lvoll2017]. Pride is a particularly relevant positive emotion here, as for example, experiencing more pride on average can improve self-esteem and increase physical activity adherence [@Mack2015; @Williams2008; [@Gilchrist2017]\]. However, if diminished pride is experienced *prior* to striving towards the goal, it is associated with adaptive behavior change, as low pride levels may signal insufficient progress toward the goal [@Gilchrist2018; @Weidman2015]. Additionally, pride comes in two facets—authentic and hubristic pride [@Tracy2007]—of which the latter is considered maladaptive in the context of sport and exercise [@Stanger2020]. Moreover, according to the theoretical framework of @DeYoung2022, well-being develops when individuals achieve goals that are meaningful to them. Taken together, this implies that if individuals can regulate pride adaptively to achieve exercise-related goals, it improves their physical and mental well-being. The question that follows is how to regulate pride in a way that helps individuals achieve their goals. -->
+
+<!-- The emotion of awe [@Keltner2003] is potentially useful in regulating pride and facilitating goal pursuit, as it could have beneficial effects on pride, and it is associated with setting more meaningful goals [@Chen2020; @Yuan2023]. -->
+
+<!-- Additionally, the regulation and experience of pride are influenced by cultural determinants [e.g., @Wong&Tsai2007]. -->
+
+<!-- ## Current research -->
+
+<!-- While awe and pride are both positively valenced, they are viewed as contrasting emotions [@Yan2023; @Shiota2007]. First, awe is associated with a small self [@Bai2017; @Piff2015], while hubristic pride is associated with an aggrandized self [@TracyRobins2007]. Second, awe is associated with greater acceptance of the social structure and humility, emphasizing connectedness [@Stellar2018; @Piff2015], while pride is associated with rising in a social hierarchy and achievement [@Tracy2020]. This diminishment of the self in combination with a focus on others could down-regulate pride and boost goal pursuit. However, this has not been directly investigated. -->
+
+<!-- Awe is recognized as an emotion of therapeutic value that aids human flourishing [e.g., @Xiong2023], and fosters an authentic view of one's achievements [@Xiong2023; @Yuan2023]. -->
+
+<!-- Cultural conditions can impact individuals’ emotion regulation [@Eid2001]. For example, emotion regulation is affected by how appropriate the expression of pride is deemed in a specific culture [@Kalokerinos2014]. Western samples tend to accept the expression of pride more than Eastern samples [@Miyamoto2014]. Moreover, it remains empirically unclear how cultural conditions (e.g., individualism-collectivism) affect the regulation of pride [@Wong&Tsai2007; @Mauss2008]. -->
+
+<!-- ## Research questions -->
+
+<!-- This cross-cultural research project will analyse associations between cultural conditions and the interaction between pride and awe in different sport and exercise settings. We assume that experiencing awe before and pride after achieving an exercise goal is generally associated with better well-being and that the cultural context is related to pride. The results could contribute to supporting individuals in regulating their emotions (i.e., pride and awe) in such a way that it promotes their physical and psychological well-being. Specifically, I want to answer the following questions: -->
+
+<!-- 1.  How does awe affect pride in exercisers?\ -->
+<!-- 2.  How are awe and pride related to well-being and physical activity adherence?\ -->
+<!-- 3.  Can these findings be generalized across cultures?\ -->
+
+<!-- Research objectives: The dissertation project aims to recruit samples from China and Germany to identify relevant emotion-regulating factors of pride and awe. The overall objective is to develop a theoretical framework for culturally sensitive interventions that promote well-being through sport and exercise. This relationship between cultural determinants, awe and pride, and well-being will be integrated into the Cybernetic Value Fulfillment Theory of well-being [@DeYoung2022]. -->
+
+<!-- ## Potential results -->
+
+<!-- A cross-cultural investigation can contribute to the understanding of how pride and awe determine well-being and how the perception of pride, which is influenced by the individualistic or collectivistic orientation of culture, impacts the relationship between pride and well-being. This use-inspired basic research can be applied in sport and exercise interventions aimed at improving physical activity adherence and enhancing pride, thereby contributing to better well-being. -->
+
+<!-- ## Methods -->
+
+<!-- To answer question one, I will use an experimental design to assess how feelings of awe affect previously induced authentic and hubristic pride. Among others, measures of affect [PANAS, @Watson1988], the Authentic-Hubristic-Pride Scale [@Tracy2007], and a measure of awe as a manipulation check will be used. -->
+
+<!-- A longitudinal study will assess the relationship of the proposed mechanisms with well-being. -->
+
+<!-- Finally, while the first two studies are conducted in China, the third study will extend these findings to include a Western sample from Germany. -->
+
+<!-- In all studies, I will include a measure for cultural orientation [collectivistic – individualistic, @Triandis1998] to discern the differential effect of cultural variables. -->
+
+<!-- ## Discussion Questions for the PhD Course -->
+
+<!-- 1.  How to increase the feasibility and parsimony of the study? -->
+
+<!-- 2.  How to model the complex longitudinal data? -->
+
+<!-- 3.  How to measure awe in two languages (Chinese and German), with a thin base of existing scales? -->
+
+<!-- Fifth iteration - PhD Course Abstract -->
+
+Positive emotions such as awe and pride benefit exercisers in the pursuit of well-being [@Fredrickson2002; @Lvoll2017], but little is known about the relationship between awe and pride in the context of exercise. The two emotions possibly counteract each other: Awe relates to humility [@Stellar2018], a focus on others, and a small self [e.g., @Keltner2003], while pride, on  the contrary, is associated with rising in the social hierarchy [@Tracy2020], a focus on the self, and sometimes with an aggrandized self [@TracyRobins2007]. The possible down-regulation of pride through inducing awe could benefit exercisers, because diminished pride predicts greater training progress [@Gilchrist2018; @Weidman2015]. Conversely, pride motivates individuals as they make progress towards their goal [@Williams2008]. According to the theoretical framework of @DeYoung2022, achieving meaningful goals is crucial for well-being, and awe might aid in setting  meaningful and realistic goals [@Yuan2023]. Taken together, inducing awe as individuals set a goal, and encouraging pride after that, might improve well-being.  However, the cultural orientation [@Mauss2008], implicit motives [@Wegner2023] and causal attributions [@Weiner1985] could affect how individuals experience awe or pride.
+
+# Objectives
+
+This research aims to answer: 
+
+1. How does awe affect pride in an exercise context? 
+
+2. In how far do awe and pride predict well-being? 
+
+3. What roles do cultural orientation, implicit motives and causal attributions play in this context?
+
+# Method:
+
+I plan an experimental study (RQ 1) and two longitudinal studies (RQ 2,3).
+
+# Discussion questions
+
+1.  How to increase the feasibility and parsimony of the study?
+
+2.  Is the presented study design suitable to address the research questions?
+
+<!-- The second, longitudinal and experimental study in China will add implicit motives [@Schultheiss2008] and cultural orientation [@Triandis1998] as measurements. The third study will replicate study two in Germany. Participants are healthy adult exercisers or athletes preparing for a competition or race. -->
+
+<!-- # Scrapped ideas -->
+
+<!-- . The first study will reveal if awe can be used to down-regulate pride, and if this regulation motivates as a motivation. (sport game 1 (no mention that there will be game 2!) -- pride measure, affect measure, session rpe (now info that there will be an opportunity to improve) --\> awe induction vs. neutral group + man. check -- game 2, pride, affect, session rpe, study in China). (The game could be " take these balls to the other side of the hall. You may only run once. You may only take one ball at a time. only one person in your line may run at the same time) Next, I plan to assess implicit motives and cultural differences and their effects on the relationship between awe and pride (also in China) . After an initial measure of implicit motives and cultural aspects, runners will receive a running diary with an awe prompt at the beginning of a week vs. a neutral prompt. Pride, affect and rpe will be measured on a weekly basis. Study three will take the same setup to germany to replicate the results. -->
+
+# References
+
+<!-- References will auto-populate in the refs div below -->
+
+::: {#refs}
+:::
