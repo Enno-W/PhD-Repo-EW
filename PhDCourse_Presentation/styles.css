@@ -1,25 +1,36 @@
 .reveal section p {
 colour: white;
-  font-size: 1em;
 }
+
+
 .references {
   font-size: 0.6em; /* Passe dies nach Bedarf an */ 
 }
+
+
+.reveal .footer > * {
+	color: white; 
+        font-size: 1.5em;
+	vertical-align: bottom;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+}  
+
 .reveal section ul {
-  font-size: 1em; /* Adjust the font size as needed */
+ colour: white; /* Adjust the font size as needed */
 }
 
 .reveal section li {
-  font-size: 0.9em;/* You can add other styles if needed */
+  colour: white;/* You can add other styles if needed */
 }
 
 .reveal {
   color: white;
-  font-size: 2em; /* Scales all text within the presentation */
+  font-size: 2.5em; /* Scales all text within the presentation */
 }
 
 .citation {
-    font-size: 0.5em;
+    font-size: 0.6em;
     font-weight: bold;
     color: rgb(238, 232, 213) /* Adjust to your preferred size */
 }
@@ -32,10 +43,4 @@ a {
 a:hover {
     color: rgb(238, 232, 213) !important; /* Optional: Changes color on hover */
     text-decoration: underline; /* Optional: Adds underline on hover */
-}
-
-.no-parallax {
-    background-attachment: fixed !important;
-    background-size: cover;
-    background-position: center;
 }
