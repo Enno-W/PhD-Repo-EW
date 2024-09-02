@@ -61,7 +61,7 @@ What is awe and why is it important for sport psychology practicioners and athle
 
 ## Correlates of Awe {auto-animate="true"}
 
--   *Attention:* Other-focus [e.g., @Bai2017]
+-   *Attention:* **Other-focus** [e.g., @Bai2017]
 -   *Self-Perception:* Small self [e.g., @Piff2015]
 -   *Social Status:* Humility [@Stellar2018], selflessness [e.g., @Piff2015]
 -   Enhanced meaning in life [@Rivera2019]
@@ -88,13 +88,12 @@ Pride, on the other hand, is a self-conscious emotion. That means, it arises exc
 ::: {.column width="20%"}
 #### Pride
 
--   *Attention:* Self-focus [@Sabiston2020]
+-   *Attention:* **Self-focus** [@Sabiston2020]
 :::
 
 ::: {.column width="35%"}
 #### Authentic Pride
 
--   Humility [@weidmanPsychologicalStructureHumility2018]
 -   *Social Status:* Rise in social status by achievement and effort [@Tracy2020]
 :::
 
@@ -107,10 +106,14 @@ Pride, on the other hand, is a self-conscious emotion. That means, it arises exc
 :::
 ## Pride and Training Progress
 
-Less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress [@Gilchrist2018]  
+- Less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress [@Gilchrist2018]  
 
 ::: notes
-The label "self-conscious emotion" gives it away that this is an emotion focused on the self, unlike awe. But interestingly, authentic pride, just like awe, is linked to greater humility. Here, however, the feelings of humility take place in a context of rising in the ranks through achievement and effort, while this is not the case for awe. Hubristic Pride is associated with a larger self, and rising in status with a disregard of others. It is also linked to lower motivation in sports. To recap, awe and pride are both positive and arousing, but they seem opposed to one another regarding their appraisal. Pride has the core theme of personal achievement, while awe has a core theme of feeling small relative to others.
+The label "self-conscious emotion" gives it away that this is an emotion focused on the self, unlike awe. Now, unlike authentic pride, which focuses on achievement and effort, hubristic Pride is associated with a larger self, and rising in status with a disregard of others. It is also linked to lower motivation in sports. 
+Together, awe and pride are both positive and arousing, but they seem opposed to one another regarding their appraisal. 
+Pride has the core theme of personal achievement, while awe has a core theme of feeling small relative to others. Pride focuses attention on the self, while awe guides it away from the self. And this is interesting because, as Gilchrist and their colleagues found, less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress
+Awe also seems particularly opposed to hubristic pride, so perhaps we can counteract hubristic pride with feelings of awe. 
+
 :::
 
 ##  {auto-animate="true"}
@@ -148,7 +151,7 @@ Rise in status
 :::
 
 ::: notes
-As visualized here, I expect that awe and pride interact with each other, as feelings of awe should shrink feelings of pride and vice versa.
+And if timed right, this mechanism could be useful in sport psychology because of the properties of these emotions. 
 :::
 
 ##  {auto-animate="true"}
@@ -185,6 +188,9 @@ Aggrandized self
 Rise in status
 :::
 
+::: notes
+And if timed right, this mechanism could be useful in sport psychology because of the properties of these emotions. 
+:::
 
 ## Individual and Cultural Determinants
 
@@ -203,8 +209,8 @@ Cultural Orientation [@Hofstede1983]
 ::: notes
 I am also interested in the impact of these individual and cultural determinants. They matter in sport and exercise and influence our experience of emotions.  
 :::
-
 # Theory
+<!--  this part is way too long!  -->
 
 ## The Cybernetic Big Five Theory
 
