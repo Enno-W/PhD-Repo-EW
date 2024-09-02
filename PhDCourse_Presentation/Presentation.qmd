@@ -24,9 +24,9 @@ format:
     incremental: true
     slide-number: true
     parallax-background-image: "https://github.com/Enno-W/PhD-Repo-EW/blob/main/PhDCourse_Presentation/background.jpg?raw=true"
-    parallax-background-size: 13500px 1940px
-    parallax-background-horizontal: 500
-    parallax-background-vertical: 95
+    parallax-background-size: 7000px 3000px
+    parallax-background-horizontal: 800
+    parallax-background-vertical: 200
     touch: true
     controls: true
     date: 2024-09-05
