@@ -1,6 +1,6 @@
 ---
 title: "Awe, Pride and Well-Being: Improving Emotion Regulation in Sport and Exercise by Considering Individual and Cultural Determinants"
-author: "Enno Winkler"
+author: "Enno Winkler, Mentor: Dr Sascha Leisterer"
 format: 
   revealjs:
     logo: "https://github.com/Enno-W/PhD-Repo-EW/blob/main/PhDCourse_Presentation/Universität_Leipzig_logo.svg?raw=true"
@@ -47,7 +47,7 @@ xlsx_to_bib(from_root("Excel_References.xlsx"))
 # Introduction
 :::{.notes}
 First, I will address the central constructs that are reflected in this title. These are awe, pride, their connection to well-being and individual determinants.
-But first, I want to bring your attention to the background. We see a small section of our neighboring galaxy, and we can see some bright pixels that seem like noise, but they're not. Each bright pixel is an individual star, and they seem close, but are light years away from each other. Our sun is but one such star.
+But first, lets have a look at this background. We see a small section of our neighboring galaxy, and we can see some bright pixels that seem like noise, but they're not. Each bright pixel is an individual star, and they seem close, but are light years away from each other. Our sun is but one such star.
 Reflecting on such thing, many people experience awe. 
 :::
 
@@ -58,7 +58,7 @@ Reflecting on such thing, many people experience awe.
     -   Therapeutic [@Dourron2022; @KeltnerMonroy2023]
 
 ::: notes
- Awe is the emotional reaction to a stimulus that we perceive as vast, such that it challenges the frame of reference that we are used to. This perception of vastness is accompanied by a need for accomodation, that is, the need to re-integrate the self into the new, shaken-up frame of reference. <<<>>> Awe has been labelled a transformative <<<>>> and therapeutic emotion. These properties make it a useful emotion for sport psychologists. Despite this, there is almost no research on awe in sport psychology.
+ Awe is the emotional reaction to a stimulus that we perceive as vast, such that it challenges the frame of reference that we are used to. This perception of vastness is accompanied by a need for accomodation, that is, the need to re-integrate the self into the new, shaken-up frame of reference. <<<>>> Awe has been labelled a transformative <<<>>> and therapeutic emotion. That makes it useful for sport psychologists. Despite this, there is almost no research on awe in sport psychology.
 :::
 
 ## Correlates of Awe {auto-animate="true"}
@@ -70,7 +70,7 @@ Reflecting on such thing, many people experience awe.
 -   Enhanced information intake and processing [@Danvers2017]
 
 ::: notes
-Awe shifts the attention away from one's own interests to the outside. <<<>>> Awe makes us feel small. <<<>>> And awe makes individuals more humble, leading to a more balanced view of one's capabilities. <<<>>> Awe is also linked to the elaboration of meaning in life,<<<>>>  and better information intake and processing.
+What we know is that awe shifts the attention away from one's own interests to the outside. <<<>>> Awe makes us feel small. <<<>>> And awe makes individuals more humble, leading to a more balanced view of one's capabilities. <<<>>> Awe is also linked to the elaboration of meaning in life,<<<>>>  and better information intake and processing.
 <!-- #-   Creative thinking [@Chirico2018] -->
 :::
 
@@ -80,7 +80,7 @@ Awe shifts the attention away from one's own interests to the outside. <<<>>> Aw
 -   **Authentic** vs. **hubristic pride** [@Tracy2007]
 
 ::: notes
-Pride, on the other hand, is a self-conscious emotion that arises in a context of evaluation by others. Pride facilitates rising in the social hierarchy. There are two ways to rise in the ranks. One is by evaluating oneself as in some way better than others, feeling and displaying dominance, superiority and power. This is associated with hubristic pride. The other route to status is by effort and achievement, which is associated with authentic pride. Sport psychological research views authentic pride as desirable, and hubristic pride as maladaptive and undesirable. 
+Pride, on the other hand, is a self-conscious emotion that arises in a context of evaluation by others. Unlike awe, Pride facilitates rising in the social hierarchy. There are two ways to rise in the ranks. One is by evaluating oneself as in some way better than others, feeling and displaying dominance, superiority and power. This is associated with hubristic pride. The other route to status is by effort and achievement, which is associated with authentic pride. Sport psychological research views authentic pride as desirable, and hubristic pride as maladaptive and undesirable. 
 :::
 
 
@@ -191,12 +191,17 @@ I am also interested in the impact of these individual and cultural determinants
 
 ## The Cybernetic Big Five Theory
 
-![The Transformation of Characteristic Adaptations in the CB5T, adapted from @DeYoung2015 .](CB5T.svg)
+![The Transformation of Characteristic Adaptations in the CB5T, adapted from @DeYoung2015 .](CB5T_without.drawio.svg)
 
 :::{.notes}
-I want to use the Cybernetic Big Five Theory as framework. 
-The Cybernetic Big Five Theory understands individuals as complex self-regulating, a.k.a. cybernetic systems. Just like a thermostat identifies a target temperateure, measures the current temperature and the increases heat to match the target temperature, individuals find goals and deploy strategies to approach their goals. This is represented in the two upper ovals.  
-Sometimes though, individuals need to adjust their strategies and goals when they encounter some anomalous, previously unknown information, for example when they encounter something too vast to fit in the oval that they are accustomed to. And awe might do just that. Following such disintegration, adapted strategies and goals emerge through reintegration. And after that, pride is an excellent motivator to pursue goals with determination. 
+The Cybernetic Big Five Theory understands individuals as complex self-regulating, a.k.a. cybernetic systems. Just like a thermostat identifies a target temperateure, measures the current temperature and the increases heat to match the target temperature, individuals find goals and deploy strategies to approach their goals. This is represented in the two upper ovals, the left one is old and the right one is new. How do we get to new goals and strategies, though?  
+:::
+## The Cybernetic Big Five Theory
+
+![The Transformation of Characteristic Adaptations in the CB5T, adapted from @DeYoung2015 .](CB5T.drawio.svg)
+
+:::{.notes}
+That happens when we encounter some anomalous information. This could be, for example, the encounter with something too vast to fit in the oval that we are accustomed to. That sounds like an awe experience. Following such disintegration, adapted strategies and goals emerge through reintegration. And after that, pride is an excellent motivator to pursue goals with determination. 
 :::
 
 ## Cybernetic Value Fulfillment Theory
@@ -217,7 +222,7 @@ Cybernetic Value Fulfillment Theory of Wellbeing [@DeYoung2022]
 
 ::: notes
 
-There is <<<>>>  value fulfillment theory, and there is a combined theory called the cybernetic value fulfillment theory. Grossly oversimplifying, individual and cultural determinants influence the values of people. And, people experience more wellbeing when they are better at (A) setting appropriate goals in line with their values and (B) making progress towards these goals. I think that awe can help people do the former, and pride can help people do the latter.
+There is <<<>>>  value fulfillment theory, and there is a combined theory called the cybernetic value fulfillment theory. Grossly oversimplifying, individual and cultural determinants influence the values of people. And, people experience more wellbeing when they are better at (A) setting appropriate goals in line with their values and (B) making progress towards these goals. Here, I think that awe can help people do the former, and pride can help people do the latter.
 :::
 
 ## RQs
@@ -258,15 +263,18 @@ The induction of awe before and pride after training should help participants to
 
 - Cross-Cultural replication of study 2
 
-# Thanks
+# Questions
 
-1. In how far are my theoretical assumptions are plausible? 
+1. In how far do my theoretical assumptions seem plausible? 
 
 2.  How to increase the feasibility and parsimony of the study (Can you help me "kill my darlings")?
 
 2.  Is it possible to operationalize a "meaningful goal"?
 
+# Thanks
 
+- to the Sport Psychology team
+- for your attention and coming to this PhD course
 
 Download presentation PDF: lower left corner and then > Tools > PDF Export Mode
 
