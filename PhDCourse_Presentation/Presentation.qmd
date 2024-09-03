@@ -25,7 +25,7 @@ format:
     slide-number: true
     parallax-background-image: "https://github.com/Enno-W/PhD-Repo-EW/blob/main/PhDCourse_Presentation/background.jpg?raw=true"
     parallax-background-size: 7000px 3000px
-    parallax-background-horizontal: 800
+    parallax-background-horizontal: 600
     parallax-background-vertical: 160
     touch: true
     controls: true
@@ -43,12 +43,10 @@ needs("excelbib", "xfun")
 xlsx_to_bib(from_root("Excel_References.xlsx"))
 ```
 
-
 # Introduction
-:::{.notes}
-First, I will address the central constructs that are reflected in this title. These are awe, pride, their connection to well-being and individual determinants.
-But first, lets have a look at this background. We see a small section of our neighboring galaxy, and we can see some bright pixels that seem like noise, but they're not. Each bright pixel is an individual star, and they seem close, but are light years away from each other. Our sun is but one such star.
-Reflecting on such thing, many people experience awe. 
+
+::: notes
+First, I will address the central constructs that are reflected in this title. These are awe, pride, their connection to well-being and individual determinants. So, about awe, the protagonist in this research, lets have a look at this background. We see a small section of our neighboring galaxy, and the amount of stars is incredible. Our sun is just a star like any of these pixels. Reflecting on such things, many people experience awe.
 :::
 
 ## Awe
@@ -58,7 +56,7 @@ Reflecting on such thing, many people experience awe.
     -   Therapeutic [@Dourron2022; @KeltnerMonroy2023]
 
 ::: notes
- Awe is the emotional reaction to a stimulus that we perceive as vast, such that it challenges the frame of reference that we are used to. This perception of vastness is accompanied by a need for accomodation, that is, the need to re-integrate the self into the new, shaken-up frame of reference. <<<>>> Awe has been labelled a transformative <<<>>> and therapeutic emotion. That makes it useful for sport psychologists. Despite this, there is almost no research on awe in sport psychology.
+Awe is the emotional reaction to a stimulus that we perceive as vast, such that it challenges the frame of reference that we are used to. This perception of vastness is accompanied by a need for accomodation, that is, the need to re-integrate the self into the new, shaken-up frame of reference. \<\<\<\>\>\> Awe has been labelled a transformative \<\<\<\>\>\> and therapeutic emotion. It does a lot of things for us that I summarise as being more in tune with yourself and your values. <!--For example, it is linked to enhanced meaning in life [@Rivera2019] Enhanced information intake and processing [@Danvers2017] and creativity . I want to use these positive and transformational outcomes of awe to help athletes and exercisers. But, right now, there is almost no research on awe in sport psychology.  #-   Creative thinking [@Chirico2018] -->
 :::
 
 ## Correlates of Awe {auto-animate="true"}
@@ -66,12 +64,11 @@ Reflecting on such thing, many people experience awe.
 -   *Attention:* **Other-focus** [e.g., @Bai2017]
 -   *Self-Perception:* Small self [e.g., @Piff2015]
 -   *Social Status:* Humility [@Stellar2018], selflessness [e.g., @Piff2015]
--   Enhanced meaning in life [@Rivera2019]
--   Enhanced information intake and processing [@Danvers2017]
 
 ::: notes
-What we know is that awe shifts the attention away from one's own interests to the outside. <<<>>> Awe makes us feel small. <<<>>> And awe makes individuals more humble, leading to a more balanced view of one's capabilities. <<<>>> Awe is also linked to the elaboration of meaning in life,<<<>>>  and better information intake and processing.
-<!-- #-   Creative thinking [@Chirico2018] -->
+::: notes
+\<\<\<\>\>\> What we know is that awe shifts the attention away from one's own interests to the outside. \<\<\<\>\>\> Awe makes us feel small. \<\<\<\>\>\> And awe makes individuals more humble, and selfless. My idea is that these properties are opposed to the emotion pride, which we'll look at now\<\<\>\>\>
+:::
 :::
 
 ## Pride
@@ -80,20 +77,15 @@ What we know is that awe shifts the attention away from one's own interests to t
 -   **Authentic** vs. **hubristic pride** [@Tracy2007]
 
 ::: notes
-Pride, on the other hand, is a self-conscious emotion that arises in a context of evaluation by others. Unlike awe, Pride facilitates rising in the social hierarchy. There are two ways to rise in the ranks. One is by evaluating oneself as in some way better than others, feeling and displaying dominance, superiority and power. This is associated with hubristic pride. The other route to status is by effort and achievement, which is associated with authentic pride. Sport psychological research views authentic pride as desirable, and hubristic pride as maladaptive and undesirable. 
+Pride, on the other hand, is a self-conscious emotion that arises in a context of evaluation by others. Unlike awe, Pride facilitates rising in the social hierarchy. It also comes in the two flavours of authentic and hubristic pride. Sport psychological research views authentic pride as desirable, and arrogant, hubristic pride as maladaptive and undesirable.
 :::
-
 
 ## Pride and Training Progress
 
-- Less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress [@Gilchrist2018]  
+-   Less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress [@Gilchrist2018]
 
 ::: notes
-Together, awe and pride are both positive and arousing, but they seem opposed to one another regarding their appraisal, and that means either pride or awe is high but not both at the same time.
- And this is interesting because
-<<<>>> , as Gilchrist and their colleagues found, less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress.
-Awe also seems particularly opposed to arrogant, hubristic pride, so it might counteract that, too. 
-This combined with the idea that awe might benefit meaningful and realistic goal setting through better information processing and pondering meaning in life makes it a good emotion to have before you start pursuing a goal.
+Together, awe and pride are both positive and arousing, but they seem opposed to one another regarding their appraisal, and that means either pride or awe is high but not both at the same time. And this is interesting because \<\<\<\>\>\> , as Gilchrist and their colleagues found, less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress. So by shrinking pride through an awe experience and then encouraging it after training, it should be possible to "hack" this mechanism. Awe also seems a good candidate to counteract to counteract hubristic pride.
 :::
 
 ##  {auto-animate="true"}
@@ -131,7 +123,7 @@ Rise in status
 :::
 
 ::: notes
-And experiencing pride as you progress to a goal might boost motivation. 
+So ideally, it looks like this at the start....
 :::
 
 ##  {auto-animate="true"}
@@ -168,6 +160,9 @@ Aggrandized self
 Rise in status
 :::
 
+::: notes
+And like this after the goal is reached.
+:::
 
 ## Individual and Cultural Determinants
 
@@ -186,22 +181,25 @@ Cultural Orientation [@Hofstede1983]
 ::: notes
 I am also interested in the impact of these individual and cultural determinants. They matter in sport and exercise and influence our experience of emotions.
 :::
+
 # Theory
+
 <!--  this part is way too long!  -->
 
 ## The Cybernetic Big Five Theory
 
 ![The Transformation of Characteristic Adaptations in the CB5T, adapted from @DeYoung2015 .](CB5T_without.drawio.svg)
 
-:::{.notes}
-The Cybernetic Big Five Theory understands individuals as complex self-regulating, a.k.a. cybernetic systems. Just like a thermostat identifies a target temperateure, measures the current temperature and the increases heat to match the target temperature, individuals find goals and deploy strategies to approach their goals. This is represented in the two upper ovals, the left one is old and the right one is new. How do we get to new goals and strategies, though?  
+::: notes
+How does this come together in a theory? The Cybernetic Big Five Theory understands individuals as complex self-regulating, a.k.a. cybernetic systems. Individuals find goals and deploy strategies to approach their goals, just like a thermostat regulates temperature. This is represented in the two upper ovals, the left one is old and the right one is new. How do we get to new goals and strategies, though?
 :::
+
 ## The Cybernetic Big Five Theory
 
 ![The Transformation of Characteristic Adaptations in the CB5T, adapted from @DeYoung2015 .](CB5T.drawio.svg)
 
-:::{.notes}
-That happens when we encounter some anomalous information. This could be, for example, the encounter with something too vast to fit in the oval that we are accustomed to. That sounds like an awe experience. Following such disintegration, adapted strategies and goals emerge through reintegration. And after that, pride is an excellent motivator to pursue goals with determination. 
+::: notes
+That happens when we encounter some anomalous information. This could be an upsetting life event. Or it could be, for example, the encounter with something too vast to fit in the oval that we are accustomed to. That sounds like an awe experience. Following such disintegration, adapted strategies and goals emerge through reintegration (a.k.a, acommodation). With the strategies and the goal well in place, pride is an excellent motivator to pursue goals with determination.
 :::
 
 ## Cybernetic Value Fulfillment Theory
@@ -218,18 +216,15 @@ Value Fulfillment Theory [@tiberius2018well]
 Cybernetic Value Fulfillment Theory of Wellbeing [@DeYoung2022]
 :::
 
-
-
 ::: notes
-
-There is <<<>>>  value fulfillment theory, and there is a combined theory called the cybernetic value fulfillment theory. Grossly oversimplifying, individual and cultural determinants influence the values of people. And, people experience more wellbeing when they are better at (A) setting appropriate goals in line with their values and (B) making progress towards these goals. Here, I think that awe can help people do the former, and pride can help people do the latter.
+There is \<\<\<\>\>\> value fulfillment theory, and there is a combined theory called the cybernetic value fulfillment theory. Grossly oversimplifying, individual and cultural determinants influence the values of people. And, people experience more wellbeing when they are better at (A) setting appropriate goals in line with their values and (B) making progress towards these goals. Here, I think that awe can help people do the former, and pride can help people do the latter.
 :::
 
 ## RQs
 
-1. How does induced awe affect pride in the context of sport or exercise?
-2. What roles do cultural and individual determinants play? 
-3. How does awe induction influence the subsequent experience of pride training or exercise behaviour across weeks? 
+1.  How does induced awe affect pride in the context of sport or exercise?
+2.  What roles do cultural and individual determinants play?
+3.  How can the induction of awe and pride improve well-being in exercisers and athletes?
 
 # Methods
 
@@ -238,45 +233,40 @@ There is <<<>>>  value fulfillment theory, and there is a combined theory called
 ![Flow Diagram for Study 1 - 2x1 Between-Subjects](Study%201.drawio.svg)
 
 ::: notes
-I want to launch the PhD Project with an experimental study to see how awe affects pride, and how the experience of awe and pride can be predicted by Individual and Cultural Determinants.
-I assume that awe will shrink pride, especially hubristic pride. 
-To test this, I will use a simple design with two randomized groups of recreational runners that recieve two treatments. After the pre-test, one group will be presented with the definition of awe and then write about an awe experience in exercise, while the other group receives a control treatment. 
-Then, I ask in a questionnaire about their current feelings of awe and pride regarding their training. 
+I want to launch the PhD Project with an experimental study to see how awe affects pride, and how the experience of awe and pride can be predicted by Individual and Cultural Determinants. I assume that awe will shrink pride, especially hubristic pride. To test this, I will use a simple design with two randomized groups of recreational runners that recieve two treatments. After the pre-test, one group will be presented with the definition of awe and then write about an awe experience in exercise, while the other group receives a control treatment. Then, I ask in a questionnaire about their current feelings of awe and pride regarding their training.
 :::
 
 ## Study 2
 
-3. How does awe induction influence the subsequent experience of pride training or exercise behaviour across weeks? 
+3.  How does awe induction influence the subsequent experience of pride training or exercise behaviour across weeks?
 
-- Recreational runners
-- Pre-Test: Individual determinants, well-being
-- Diary (6 training sessions):
-  Awe imagery → pride, awe, affect, goal km, → training → completed km, training time, training intesity → pride statement
-- Post-Test: well-being
+-   Recreational runners
+-   Pre-Test: Individual determinants, well-being
+-   Diary (6 training sessions): Awe imagery → pride, awe, goal km, → training → completed km, training time, training intesity → pride imagery
+-   Post-Test: well-being
 
 ::: notes
-In study 2, I want to test my assumptions regarding the adaptive outcomes of a well-timed induction of awe and pride (RQ3). For that, I want to ask runners  to fill in a pre-test and then a diary entry before and after every training session. Before a session, I want to have participants listen to guided imagery that induces awe. I can use the open answers from study 1 to tailor such guided imagery to the exercise context. Then, participants fill in their goal and report feelings of pride, awe, and affect. After training, they fill in how long and far they ran, and how intense they ran. With a forced choice from four pride-related statements, I want to encourage participants to feel pride after their training. 
-The induction of awe before and pride after training should help participants to adapt well and pursue their goals more effectively, leading to more well-being after. 
+In study 2, I want to test my assumptions regarding the adaptive outcomes of a well-timed induction of awe and pride (RQ3). For that, I want to ask runners to fill in a pre-test and then a diary entry before and after every training session. Before a session, I want to have participants listen to guided imagery that induces awe. I can use the open answers from study 1 to tailor such guided imagery to the exercise context. Then, participants fill in their goal and report feelings of pride, awe, and affect. After training, they fill in how long and far they ran, and how intense they ran. With a forced choice from four pride-related statements, I want to encourage participants to feel pride after their training. The induction of awe before and pride after training should help participants to adapt well and pursue their goals more effectively, leading to more well-being after.
 :::
 
 ## Study 3
 
-- Cross-Cultural replication of study 2
+-   Cross-Cultural replication of study 2
 
 # Questions
 
-1. In how far do my theoretical assumptions seem plausible? 
+1.  In how far do my theoretical assumptions seem plausible?
 
 2.  How to increase the feasibility and parsimony of the study (Can you help me "kill my darlings")?
 
-2.  Is it possible to operationalize a "meaningful goal"?
+3.  Is it possible to operationalize a "meaningful goal"?
 
 # Thanks
 
-- to the Sport Psychology team
-- for your attention and coming to this PhD course
+-   to the Sport Psychology team
+-   for your attention and coming to this PhD course
 
-Download presentation PDF: lower left corner and then > Tools > PDF Export Mode
+![NASA, ESA, J. Dalcanton (University of Washington, USA), B. F. Williams (University of Washington, USA), L. C. Johnson (University of Washington, USA), the PHAT team, and R. Gendler.](journey.png)
 
 # References
 
